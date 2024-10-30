@@ -1,0 +1,19 @@
+{
+    "name": "blockvis/civic-sip-wp",
+    "description": "Civic SIP WordPress plugin",
+    "type": "library",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Blockvis",
+            "email": "blockvis@blockvis.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "includes/vendor"
+    },
+    "require": {
+        "blockvis/civic-sip-php": "~1.0"
+    }
+}
